@@ -1,20 +1,8 @@
-# pizza_app
+# Pizza Delivery Start Page with Animated Home and Customizable Menu in FLutter
 
-Flutter Start Page of a pizza delivery with a simple Menu Layout
+Here I have published a code repository for a pizza delivery application. The code includes a homepage with an embedded logo image, descriptive text, and a rounded button. Upon loading, the homepage features an engaging animation. Additionally, there is a menu page with a "Menu" image and customizable product widgets displayed both horizontally and vertically. This code provides a foundation for building a pizza delivery platform, allowing developers to create a visually appealing user interface with dynamic menu options. The code is open-source and can be freely modified and adapted to suit specific branding and business requirements.
 
 <img width="476" alt="Bildschirmfoto 2023-07-06 um 22 48 58" src="https://github.com/abdullahmkr/pizza_delivery/assets/92608003/4bc6cc74-fcf2-470c-b7bb-85a022c5a2eb">
 <img width="475" alt="Bildschirmfoto 2023-07-06 um 22 49 09" src="https://github.com/abdullahmkr/pizza_delivery/assets/92608003/c32c3be2-2d2d-49b4-bd1f-644a0bb2293f">
 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
